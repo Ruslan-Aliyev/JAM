@@ -16,8 +16,11 @@ https://nextjs.org/docs/messages/next-image-unconfigured-host
 
 https://www.npmjs.com/package/@contentful/rich-text-react-renderer
 
-Push to Github
+Push to Github, main branch
 
 Register at Vercel
 
-New project, link Vercel with Github, import the repo you just pushed, fill env vars, click deploy
+New project, link Vercel with Github, import the repo you just pushed, fill env vars, click deploy.
+
+Incremental Static Regeneration: make Vercel auto re-render when Contentful's contents changes
+
