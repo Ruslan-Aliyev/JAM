@@ -9,6 +9,7 @@ Make Content Model, Media and then Contents
 `npm install contentful`
 
 Get Content Delivery API - access token by creating new API Key
+<img width="1000" alt="token" src="https://github.com/Ruslan-Aliyev/JAM/assets/6761422/e0714de9-006b-496f-aabe-e542abe60f15">
 
 Env vars: `process.env.XXX_XXX`
 
@@ -29,3 +30,7 @@ Incremental Static Regeneration: make Vercel auto re-render when Contentful's co
 So: `revalidate: 1` in `pages/recipes/[slug].js` & `pages/index.js` causes changes on Contentful to be updated on Vercel; Updates to the main branch causes changes on Github to be updates on Vercel.
 
 Another way of auto re-rendered changed contents is Vercel's deploy hooks. Endpoint is generated from Vercel (Settings > Git > Deploy Hooks, set branch as main), given to Contentful (Settings > Web Hooks > Add Webhook > Vercel > Webhook Settings), and then configured at Contentful.
+
+---
+
+https://jam-kohl.vercel.app/
