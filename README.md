@@ -24,3 +24,4 @@ New project, link Vercel with Github, import the repo you just pushed, fill env 
 
 Incremental Static Regeneration: make Vercel auto re-render when Contentful's contents changes
 
+So: `revalidate: 1` in `pages/recipes/[slug].js` & `pages/index.js` causes changes on Contentful to be updated on Vercel; Updates to the main branch causes changes on Github to be updates on Vercel.
