@@ -20,8 +20,12 @@ Push to Github, main branch
 
 Register at Vercel
 
+Create a team (pro trial if needed), don't stay as yourself's hobby account (else deploying projects from Github later won't work)
+
 New project, link Vercel with Github, import the repo you just pushed, fill env vars, click deploy.
 
 Incremental Static Regeneration: make Vercel auto re-render when Contentful's contents changes
 
 So: `revalidate: 1` in `pages/recipes/[slug].js` & `pages/index.js` causes changes on Contentful to be updated on Vercel; Updates to the main branch causes changes on Github to be updates on Vercel.
+
+Another way of auto re-rendered changed contents is Vercel's deploy hooks. Endpoint is generated from Vercel (Settings > Git > Deploy Hooks, set branch as main), given to Contentful (Settings > Web Hooks > Add Webhook > Vercel > Webhook Settings), and then configured at Contentful.
