@@ -50,6 +50,12 @@ https://jam-kohl.vercel.app/
 - https://www.youtube.com/watch?v=Sklc_fQBmcs
 - https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw
 
+Update NextJS 13: https://www.youtube.com/watch?v=g0Jc5D6tiCo
+
+SSR, SSG and ISR functions are all replaced
+
+![image](https://github.com/Ruslan-Aliyev/JAM/assets/6761422/2b5f6ee6-d855-45ec-8b58-3d6894881959)
+
 ---
 
 # JAM Stack
