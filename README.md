@@ -73,6 +73,12 @@ So you should generate hooks in Vercel, and give them to both Github and Content
 
 ![image](https://github.com/Ruslan-Aliyev/JAM/assets/6761422/cac4a09b-f170-431a-8ab4-1a0294dfbac7)
 
+## Server Side Rendering vs Client Side Rendering vs Static Site Generation vs Incremental Static Regeneration
+
+https://www.youtube.com/watch?v=p02AIAoImzU
+
+![image](https://github.com/Ruslan-Aliyev/JAM/assets/6761422/8fb93661-301a-4be4-9662-d40b38245cbb)
+
 ---
 
 # Support
