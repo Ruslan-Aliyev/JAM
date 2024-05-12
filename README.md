@@ -71,7 +71,8 @@ So you should generate hooks in Vercel, and give them to both Github and Content
 # Next.JS Basics
 
 - https://www.youtube.com/watch?v=Sklc_fQBmcs
-- https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw
+- Next 12: https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw
+- Next 14: https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI
 - https://www.freecodecamp.org/news/nextjs-tutorial
 
 Update NextJS 13: https://www.youtube.com/watch?v=g0Jc5D6tiCo
