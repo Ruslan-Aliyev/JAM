@@ -70,26 +70,7 @@ So you should generate hooks in Vercel, and give them to both Github and Content
 
 # Next.JS Basics
 
-- https://www.youtube.com/watch?v=Sklc_fQBmcs
-- Next 12: https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw
-- Next 14: https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI
-- https://www.freecodecamp.org/news/nextjs-tutorial
 
-Update NextJS 13: https://www.youtube.com/watch?v=g0Jc5D6tiCo
-
-SSR, SSG and ISR functions are all replaced
-
-![image](https://github.com/Ruslan-Aliyev/JAM/assets/6761422/2b5f6ee6-d855-45ec-8b58-3d6894881959)
-
----
-
-# Server Side Rendering vs Client Side Rendering vs Static Site Generation vs Incremental Static Regeneration
-
-https://www.youtube.com/watch?v=p02AIAoImzU
-
-![image](https://github.com/Ruslan-Aliyev/JAM/assets/6761422/8fb93661-301a-4be4-9662-d40b38245cbb)
-
-All other rendering patterns: https://www.youtube.com/watch?v=Dkx5ydvtpCA
 
 ---
 
