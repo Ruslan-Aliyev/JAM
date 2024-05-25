@@ -70,7 +70,7 @@ So you should generate hooks in Vercel, and give them to both Github and Content
 
 # Next.JS Basics
 
-
+https://github.com/Ruslan-Aliyev/Next-Tailwind-Typescript
 
 ---
 
